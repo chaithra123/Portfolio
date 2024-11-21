@@ -4,6 +4,39 @@ This is readme file for the Kong / Azure integration.
 
 
 
+# **User Management API with Kong and Azure**
+This project demonstrates a simple **User Management API** integrated with **Kong Gateway** and hosted on **Azure App Service**. It provides basic CRUD operations for user data and showcases API Gateway features like authentication and rate limiting.
+
+
+
+
+
+## **Features**
+- **Endpoints**:
+    - `GET /users` : Retrieve a list of all users.
+    - `POST /users` : Add a new user.
+- **Integration with Kong Gateway**:
+    - API Key Authentication.
+    - Rate Limiting (e.g., 5 requests per second).
+- **Hosted on Azure**:
+    - Backend API is deployed to **Azure App Service**.
+- **Logging**:
+    - Kong logs can be sent to Azure Monitor for observability
+
+
+
+
+## **Technologies Used**
+- **Backend**: Spring Boot (Java).
+- **API Gateway**: Kong.
+- **Hosting**: Azure App Service.
+- **Observability**: Azure Monitor.
+
+
+
+
+
+
 
 
 
