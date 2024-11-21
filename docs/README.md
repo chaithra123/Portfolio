@@ -31,7 +31,13 @@ This project demonstrates a simple **User Management API** integrated with **Kon
 - **API Gateway**: Kong.
 - **Hosting**: Azure App Service.
 - **Observability**: Azure Monitor.
+ 
 
+
+
+**Open API specification:**
+
+![image.png](/.eraser/3A1bhutrrSwuCvseFXS5___85j9sr4h7kbAUq79r02QXtsnVzn2___gzEWwVg1S-wNzpdHmLDHd.png "image.png")
 
 
 
